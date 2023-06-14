@@ -1,6 +1,6 @@
 import React from 'react'
 import Fade from 'react-reveal/Fade'
-import { projects } from './index'
+//import { projects } from './index'
 import { Project } from '../../components'
 import { Blast } from '../../components'
 import './projectpage.scss'
@@ -30,11 +30,7 @@ const ProjectPage = () => {
           </p>
         </Fade>
       </div>
-      <div className="section__projects-wrapper">
-        {projects.map((project, index) => {
-          return <Project {...project} key={index} />
-        })}
-      </div>
+      
     </section>
   )
 }

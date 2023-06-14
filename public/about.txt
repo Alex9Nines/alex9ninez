@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Zen Antique Soft
+- Font Author: Copyright 2021 The Zen Antique Project Authors (https://github.com/googlefonts/zen-antique)
+- Font Source: http://fonts.gstatic.com/s/zenantiquesoft/v12/DtV4JwqzSL1q_KwnEWMc_3xfgW6ihwBmkui5HNg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

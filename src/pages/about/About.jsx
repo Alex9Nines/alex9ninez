@@ -1,5 +1,5 @@
 import React from "react"
-import myCV from "../../assets/images/MyCV.pdf"
+//import myCV from "../../assets/images/MyCV.pdf"
 import Reveal from "react-reveal/Reveal"
 import Fade from "react-reveal/Fade"
 
@@ -62,7 +62,7 @@ const About = () => {
                         <Fade left>
                             <a
                                 style={{ marginTop: "2rem" }}
-                                href={myCV}
+                                href={'/'}
                                 download
                                 className="contact-button submit-button"
                             >
