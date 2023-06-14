@@ -26,7 +26,6 @@ const ProjectPage = () => {
       <div className="section__projects-description">
         <Fade bottom>
           <p>
-            В данной секции представлено несколько завершенных проектов:
           </p>
         </Fade>
       </div>
